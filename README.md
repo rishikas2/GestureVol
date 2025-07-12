@@ -8,3 +8,4 @@ GestureVol is a vision-based system for touchless volume control using hand gest
 5. Works with a standard webcam, making it cost-effective and easy to deploy.
 6. Supports intuitive gestures like swipe, pinch, and finger counts for media control.
 7. Adapts to low lighting situations
+<img width="3567" height="1766" alt="gesturevol_comparison" src="https://github.com/user-attachments/assets/dff19f23-2ccd-4695-949d-b0adebdf7212" />
